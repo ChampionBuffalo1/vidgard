@@ -1,4 +1,4 @@
 [submodule "apigard"]
 	path = apigard
 	url = git@github.com:ChampionBuffalo1/apigard.git
-	main = main
+	branch = main
